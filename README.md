@@ -9,7 +9,7 @@ move on.
 
 ## v0.1<br/>
   Block 1:
-  - selecting sprites>
+  - selecting sprites
   - asset pipeline
 
   Block 2:
